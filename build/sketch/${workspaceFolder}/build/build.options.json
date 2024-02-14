@@ -1,0 +1,12 @@
+#line 1 "C:\\Users\\douglaswi\\ArduinoProjects\\github\\dugwill\\blink2\\${workspaceFolder}\\build\\build.options.json"
+{
+  "additionalFiles": "..\\..\\..,..\\..\\..",
+  "builtInToolsFolders": "",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "",
+  "fqbn": "arduino:avr:uno",
+  "hardwareFolders": "C:\\Users\\douglaswi\\AppData\\Local\\Arduino15\\packages",
+  "otherLibrariesFolders": "C:\\Users\\douglaswi\\Documents\\Arduino\\libraries",
+  "runtime.ide.version": "10607",
+  "sketchLocation": "C:\\Users\\douglaswi\\ArduinoProjects\\github\\dugwill\\blink2"
+}

@@ -1,0 +1,8 @@
+#line 1 "C:\\Users\\douglaswi\\ArduinoProjects\\github\\dugwill\\blink2\\${workspaceFolder}\\build\\sketch\\.vscode\\arduino.json"
+#line 1 "C:\\Users\\douglaswi\\ArduinoProjects\\github\\dugwill\\blink2\\.vscode\\arduino.json"
+{
+    "sketch": "blink2.ino",
+    "port": "COM3",
+    "board": "arduino:avr:uno",
+    "output": "${workspaceFolder}/build"
+}
